@@ -1,0 +1,22 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "app to get weather information",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "weather"],
+  "author": "RastaAlex",
+  "homepage": "https://github.com/RastaAlex",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RastaAlex/weather-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RastaAlex",
+    "email": "Rastaalex86@gmail.com"
+  },
+  "license": "MIT"
+}
